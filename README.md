@@ -52,3 +52,19 @@
  
 ## Gün 11 - 03/04/2026
  -  Javascript ile ilgili dökümanlar izlendi
+
+##12 -08/04/26
+-javascript nedir
+-javascriptin tarihcesi
+-javascript dosya yapisi
+
+##13 -09/04/26
+-javascript'in faydalari
+-javascript ile neler yapilabilir
+-javascript kutuphanesi
+
+##14 -10/04/26
+-html nedir
+-html tarihcesi
+-dosya yapisi ve gelistirme
+-html faydaları
